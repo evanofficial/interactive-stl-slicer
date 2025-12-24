@@ -50,3 +50,4 @@ The app will open automatically in your web browser at `http://localhost:8501`.
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
+
