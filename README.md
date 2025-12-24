@@ -1,6 +1,6 @@
 # 📐 STL to DXF Slicer
 
-[![Try It Online](https://img.shields.io/badge/Try%20It-Online-success?style=for-the-badge&logo=streamlit)](https://stl-to-dxf-slicer.streamlit.app/)
+[![Try It Online](https://img.shields.io/badge/Try%20It-Online-success?style=for-the-badge&logo=streamlit)](https://interactive-stl-slicer.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 
 An interactive web application to **slice** 3D **STL** files and export 2D **DXF** sketches.  
