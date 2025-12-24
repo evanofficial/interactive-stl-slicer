@@ -6,7 +6,7 @@
 An interactive web application to **slice** 3D **STL** files and export 2D **DXF** sketches.  
 Ideal for extracting profiles from multi-level extrusions for laser cutting and CNC.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot_001.png)
 
 ## ✨ Features
 - **🎯 Precise Manual Slicing**: The standout feature! Use the interactive slider to pick the **exact height** of the cut. Perfect for models with multiple extrusions or levels.
@@ -50,4 +50,3 @@ The app will open automatically in your web browser at `http://localhost:8501`.
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
-
