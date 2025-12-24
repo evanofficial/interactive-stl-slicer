@@ -74,10 +74,10 @@ def get_plot_fig(mesh, slice_3d=None):
     )
     return fig
 
-st.set_page_config(page_title="STL to DXF Converter", page_icon="📐", layout="wide")
+st.set_page_config(page_title="STL to DXF Slicer", page_icon="📐", layout="wide")
 
-st.title("📐 STL to DXF Converter")
-st.write("Upload a 3D STL file and convert it to a 2D DXF sketch.")
+st.title("📐 STL to DXF Slicer")
+st.write("Upload a 3D STL file, slice it at any height, and export the 2D DXF profile.")
 st.info("💡 **Note:** This tool works best with models created by **uniform extrusion** (prismatic shapes). Irregular, organic, or tapered geometries may not produce a usable 2D profile.")
 
 uploaded_file = st.file_uploader("Choose an STL file", type=['stl'])

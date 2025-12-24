@@ -1,10 +1,10 @@
-# 📐 STL to DXF Converter
+# 📐 STL to DXF Slicer
 
-[![Try It Online](https://img.shields.io/badge/Try%20It-Online-success?style=for-the-badge&logo=streamlit)](https://stl-to-dxf-converter.streamlit.app/)
+[![Try It Online](https://img.shields.io/badge/Try%20It-Online-success?style=for-the-badge&logo=streamlit)](https://stl-to-dxf-slicer.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 
-A simple, open-source web application to convert 3D **STL** files into 2D **DXF** sketches.  
-Ideal for generating laser cutting profiles, CNC paths, or floor plans from 3D models.
+An interactive web application to **slice** 3D **STL** files and export 2D **DXF** sketches.  
+Ideal for extracting profiles from multi-level extrusions for laser cutting and CNC.
 
 ![App Screenshot](screenshot.png)
 
@@ -25,8 +25,8 @@ You can run this app on your own machine using Python.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/evanofficial/stl-to-dxf-converter.git
-    cd stl-to-dxf-converter
+    git clone https://github.com/evanofficial/interactive-stl-slicer.git
+    cd interactive-stl-slicer
     ```
 
 2.  **Install dependencies:**
